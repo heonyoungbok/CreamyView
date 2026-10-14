@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logo.png" width="200">
+</p>
+
 # CreamyView: 4개국 리뷰로 본 스킨케어 크림 만족 요인과 K-Beauty 현지화 전략
 
 **작성자:** 김지수, 복헌영, 손새연, 임하연 (4인 팀 프로젝트) &nbsp;&nbsp;|&nbsp;&nbsp; **작성일:** 2026-09-28
