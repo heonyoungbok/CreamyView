@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" width="200">
+  <img src="CreamyView%20표지.png" width="600">
 </p>
 
 # CreamyView: 4개국 리뷰로 본 스킨케어 크림 만족 요인과 K-Beauty 현지화 전략
