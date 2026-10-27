@@ -1,5 +1,9 @@
 # 🧴 CreamyView: 4개국 리뷰로 본 스킨케어 크림 만족 요인과 K-Beauty 현지화 전략
 
+<p align="center">
+  <img src="./CreamyView_표지.png" alt="CreamyView_표지" width="100%"/>
+</p>
+
 **작성자:** 김지수, 복헌영, 손새연, 임하연 (4인 팀 프로젝트) &nbsp;&nbsp;|&nbsp;&nbsp; **작성일:** 2026-09-28
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE) ![Kiwi](https://img.shields.io/badge/Kiwi-형태소분석-8BC34A) ![statsmodels](https://img.shields.io/badge/statsmodels-4051B5) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD) ![SHAP](https://img.shields.io/badge/SHAP-TreeSHAP-FF0D57)
